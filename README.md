@@ -1,6 +1,7 @@
 # app_2
 
 A new Flutter project.
+Login with Google authentication using Firebase 
 
 ## Getting Started
 
